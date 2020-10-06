@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: #6c6b6b;
+}
+
+.main-visual {
+  height: 400px;
+  width: 100%;
+  background-image: url(img/mv.jpg);
+  background-size: cover;
+  background-position: bottom center;
+}
+
+.text-heading {
+  padding: 20px 0 0 20px;
+}
+
+.blog {
+  width: 840px;
+  margin: 0 auto;
+  padding-bottom: 50px;
+  padding-top: 50px;
+}
+
+.blog-item1 {
+  padding-bottom: 30px;
+  border-bottom: 1px solid #7e7e7e;
+}
+
+.blog-item {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  border-bottom: 1px solid #7e7e7e;
+}
